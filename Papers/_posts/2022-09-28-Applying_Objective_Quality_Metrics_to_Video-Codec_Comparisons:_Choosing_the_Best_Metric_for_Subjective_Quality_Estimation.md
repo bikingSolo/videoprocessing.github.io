@@ -2,10 +2,10 @@
 title: "Applying Objective Quality Metrics to Video&#8209;Codec Comparisons: Choosing the Best Metric for Subjective Quality Estimation"
 permalink: /best_metric_Subjective_QA
 features:
-  - "Comparison of SSIM, MS-SSIM, PSNR&nbsp;(avg.&nbsp;mse,&nbsp;log), NIQE, VQM and VMAF&nbsp;(v061&#8209;v063,&nbsp;v061_neg)"
-  - "<b>39<b> versions of H.264, H.265, AV1, VP9, and other codecs at three bitrates"
-  - "<b>789<b> encoded videos and <b>320&#x202F;294<b> subjective scores"
-  - "Comparison of YUV summations: YUV&#x202F;1:1:1, YUV&#x202F;2:1:1, YUV&#x202F;4:1:1, YUV&#x202F;6:1:1, YUV&#x202F;8:1:1 and YUV&#x202F;10:1:1"
+  - "Comparison of SSIM, MS-SSIM, PSNR, NIQE, VQM and VMAF"
+  - "<b>39</b> versions of H.264, H.265, AV1, VP9, and other codecs at three bitrates"
+  - "<b>789</b> encoded videos and <b>320&#x202F;294</b> subjective scores"
+  - "Comparison of different YUV summations"
 ---
 
 
@@ -13,6 +13,7 @@ features:
 
 Contact&nbsp;us:
 
+* <aantsiferova@graphics.cs.msu.ru>
 * <video@compression.ru>
 
 ## Abstract
@@ -22,7 +23,7 @@ Quality assessment is essential to&nbsp;creating and comparing video compression
 <!-- Add Download Full Text button-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div>
-<button class="download-button" role="button" onclick="window.open('http://ceur-ws.org/Vol-3027/paper19.pdf')"> <!-- Insert link here-->
+<button class="download-button" role="button" onauxclick="window.open('http://ceur-ws.org/Vol-3027/paper19.pdf')" onclick="window.open('http://ceur-ws.org/Vol-3027/paper19.pdf')"> <!-- Insert link here-->
     <i class="fa fa-download"></i>
     Download Full Text
 </button>
@@ -150,7 +151,7 @@ Below is the overall ranking of metrics with best summations only.
 
 ## Contact us
 
-For questions and propositions, please contact us: , and <video@compression.ru>
+For questions and propositions, please contact us: <aantsiferova@graphics.cs.msu.ru> and <video@compression.ru>
 
 ## See also 
 * [MSU Video Codecs Comparisons](http://compression.ru/video/codec_comparison/index_en.html)
@@ -159,8 +160,8 @@ For questions and propositions, please contact us: , and <video@compression.ru>
 
 ## References <!-- Other papers that were mentioned in the main part of the page -->
 
-1) Msu video codecs comparisons, n.d. URL: http://compression.ru/video/codec_comparison/index_en.html.
+1.  Msu video codecs comparisons, n.d. URL: http://compression.ru/video/codec_comparison/index_en.html.
 
-2) A.&#x202F;V.&#x202F;Zvezdakova, D.&#x202F;L.&#x202F;Kulikov, S.&#x202F;V.&#x202F;Zvezdakov, D.&#x202F;S.&#x202F;Vatolin, Bsq-rate: anewapproachfor video-codec performance comparison and drawbacks of current solutions, Programming and computer software 46 (2020) 183–194.
+2.  A.&#x202F;V.&#x202F;Zvezdakova, D.&#x202F;L.&#x202F;Kulikov, S.&#x202F;V.&#x202F;Zvezdakov, D.&#x202F;S.&#x202F;Vatolin, Bsq-rate: anewapproachfor video-codec performance comparison and drawbacks of current solutions, Programming and computer software 46 (2020) 183–194.
 
-3) D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, M.&#x202F;J.&#x202F;Burke, Averaging correlations: Expected values and bias in combined pearson rs and fisher’s z transformations, The Journal of General Psychol- ogy 125 (1998) 245–261. URL: https://doi.org/10.1080/00221309809595548. doi:10.1080/ 00221309809595548. arXiv:https://doi.org/10.1080/00221309809595548.
+3.  D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, M.&#x202F;J.&#x202F;Burke, Averaging correlations: Expected values and bias in combined pearson rs and fisher’s z transformations, The Journal of General Psychol- ogy 125 (1998) 245–261. URL: https://doi.org/10.1080/00221309809595548. doi:10.1080/ 00221309809595548. arXiv:https://doi.org/10.1080/00221309809595548.
