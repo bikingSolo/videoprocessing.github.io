@@ -160,8 +160,8 @@ For questions and propositions, please contact us: <aantsiferova@graphics.cs.msu
 
 ## References <!-- Other papers that were mentioned in the main part of the page -->
 
-1.  Msu video codecs comparisons, n.d. URL: http://compression.ru/video/codec_comparison/index_en.html.
+1.  Msu video codecs comparisons, n.d. Available: <http://compression.ru/video/codec_comparison/index_en.html>.
 
 2.  A.&#x202F;V.&#x202F;Zvezdakova, D.&#x202F;L.&#x202F;Kulikov, S.&#x202F;V.&#x202F;Zvezdakov, D.&#x202F;S.&#x202F;Vatolin, Bsq-rate: anewapproachfor video-codec performance comparison and drawbacks of current solutions, Programming and computer software 46 (2020) 183–194.
 
-3.  D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, M.&#x202F;J.&#x202F;Burke, Averaging correlations: Expected values and bias in combined pearson rs and fisher’s z transformations, The Journal of General Psychol- ogy 125 (1998) 245–261. URL: https://doi.org/10.1080/00221309809595548. doi:10.1080/ 00221309809595548. arXiv:https://doi.org/10.1080/00221309809595548.
+3.  D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, M.&#x202F;J.&#x202F;Burke, Averaging correlations: Expected values and bias in combined pearson rs and fisher’s z transformations, The Journal of General Psychol- ogy 125 (1998) 245–261. Available: <https://doi.org/10.1080/00221309809595548>. doi:10.1080/ 00221309809595548. arXiv:<https://doi.org/10.1080/00221309809595548>.
