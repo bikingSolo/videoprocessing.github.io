@@ -36,6 +36,7 @@ Quality assessment is essential to&nbsp;creating and comparing video compression
 * **39** versions of H.264, H.265, AV1, VP9, and other codecs at three bitrates
 * **789** encoded videos and **320&#x202F;294** subjective scores
 * Comparison of YUV summations: YUV&#x202F;1:1:1, YUV&#x202F;2:1:1, YUV&#x202F;4:1:1, YUV&#x202F;6:1:1, YUV&#x202F;8:1:1 and YUV&#x202F;10:1:1
+* Powered by [Subjectify.us](http://www.subjectify.us/) 
 
 ## Data Collection for Evaluating Video&nbsp;Quality&nbsp;Assessment Algorithms
 
@@ -101,7 +102,7 @@ Table below summarizes the data sets, which the 2018–2020 MSU codec comparison
 </tbody>
 </table>
 
-The subjective assessment involved pairwise comparisons using the Subjectify.us platform, each pair of videos received at least 10 responses from participants.
+The subjective assessment involved pairwise comparisons using the [Subjectify.us](http://www.subjectify.us/) platform, each pair of videos received at least 10 responses from participants.
 
 
 
@@ -160,8 +161,9 @@ For questions and propositions, please contact us: <aantsiferova@graphics.cs.msu
 
 ## References <!-- Other papers that were mentioned in the main part of the page -->
 
-1.  Msu video codecs comparisons, n.d. Available: <http://compression.ru/video/codec_comparison/index_en.html>.
+1.  MSU Video Codecs Comparisons, Available: <http://compression.ru/video/codec_comparison/index_en.html.>
 
-2.  A.&#x202F;V.&#x202F;Zvezdakova, D.&#x202F;L.&#x202F;Kulikov, S.&#x202F;V.&#x202F;Zvezdakov, D.&#x202F;S.&#x202F;Vatolin, Bsq-rate: anewapproachfor video-codec performance comparison and drawbacks of current solutions, Programming and computer software 46 (2020) 183–194.
 
-3.  D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, M.&#x202F;J.&#x202F;Burke, Averaging correlations: Expected values and bias in combined pearson rs and fisher’s z transformations, The Journal of General Psychol- ogy 125 (1998) 245–261. Available: <https://doi.org/10.1080/00221309809595548>. doi:10.1080/ 00221309809595548. arXiv:<https://doi.org/10.1080/00221309809595548>.
+2.  A.&#x202F;V.&#x202F;Zvezdakova, D.&#x202F;L.&#x202F;Kulikov, S.&#x202F;V.&#x202F;Zvezdakov, and D.&#x202F;S.&#x202F;Vatolin, "BSQ-rate: a new approach for video-codec performance comparison and drawbacks of current solutions", in *Programming and computer software* 46, 2020, 183–194.
+
+3.  D.&#x202F;M.&#x202F;Corey, W.&#x202F;P.&#x202F;Dunlap, and M.&#x202F;J.&#x202F;Burke, "Averaging Correlations: Expected Values and Bias in Combined Pearson rs and Fisher’s z Transformations", in *The Journal of General Psychology* 125, 1998, 245–261. Available: <https://doi.org/10.1080/00221309809595548>
